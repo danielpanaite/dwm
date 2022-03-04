@@ -6,7 +6,7 @@ static const unsigned int gappx     = 18;       /* gap pixel between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "Cascadia Code:size=8", "Hack Nerd Font:size=10" };
+static const char *fonts[]          = { "Cascadia Code:size=16", "CaskaydiaCove Nerd Font Mono:size=14" };
 static const char dmenufont[]       = "Cascadia Code:size=10";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
